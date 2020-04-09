@@ -4,8 +4,6 @@
 - Lesley Rivera
 
 
-
-
 #### Feature #1: Refactor the CSS
 Why are we implementing this feature?
 As a user, I want the portfolio to have a clean UI so that it is visually appealing.
@@ -16,13 +14,13 @@ Then the portfolio contents should be displayed
 
  Number and name of feature: #1 Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours 
 
- Start time: _____
+ Start time: 6:30 p.m
 
-Finish time: _____
+Finish time: 9:30 p.m
 
-Actual time needed to complete: _____
+Actual time needed to complete: 3 hours 
 
 #### Feature #2: Modify the contents
 Why are we implementing this feature?
@@ -34,13 +32,13 @@ Then the content should be unique and reflect the skills and personality of the 
 
 Number and name of feature: #2 Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 9:30
 
-Finish time: _____
+Finish time: 10:30
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour 
 
 ## References
 - http://smacss.com/
